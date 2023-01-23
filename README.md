@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Josh 🤠
+
+## I'm currently a third year studying Computer Science at UBC, consistently trying to learn new things both inside and outside the field of computer science!
+
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Monthly Wakatime"
+/>
 
 <!--
 **JoshFung/JoshFung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
