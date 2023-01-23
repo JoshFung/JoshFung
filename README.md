@@ -3,7 +3,7 @@
 ## I'm currently a third year studying Computer Science at UBC, consistently trying to learn new things both inside and outside the field of computer science!
 
 <img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/JoshFung/JoshFung/blob/main/images/stat.svg"
   alt="Monthly Wakatime"
 />
 
