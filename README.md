@@ -1,6 +1,6 @@
 ## Hi there, I'm Josh 🤠
 
-### I'm currently a third year studying Computer Science at UBC, constantly trying to learn new things both inside and outside the field of computer science!
+### I'm currently a fourth year studying Computer Science at UBC, constantly trying to learn new things both inside and outside the field of computer science!
 
 <img
   src="https://github.com/JoshFung/JoshFung/blob/main/images/stat.svg"
