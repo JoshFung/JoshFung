@@ -1,6 +1,4 @@
-<!--
-## Hi there, I'm Josh 🤠
--->
+## Hi, I'm Josh 🤠
 
 <!-- WAKATIME STATS - SHOWS WHAT CODE I USED WEEKLY -->
 <!--
